@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Docker and Mongodb
 - 💞️ I’m looking to collaborate on interesting projects and ideas
 - 📫 Reach me at sivakumarsai050@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  
+
 
 <!---
 RamKumarAppi/RamKumarAppi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
